@@ -1,0 +1,25 @@
+{
+  "name": "swexnjs",
+  "version": "1.0.0",
+  "description": "Swagger with Express on Node.js",
+  "main": "server",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisapit/swexnjs.git"
+  },
+  "keywords": [
+    "Swagger",
+    "Express",
+    "Middleware",
+    "Node.js"
+  ],
+  "author": "Sebastian Scheffler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sisapit/swexnjs/issues"
+  },
+  "homepage": "https://github.com/sisapit/swexnjs#readme"
+}
